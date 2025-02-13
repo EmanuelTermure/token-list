@@ -1,9 +1,30 @@
-{
-  "chainId": 101,
-  "address": "9Pog8MZgB9SXhdSA9aFvCr2qEjYzLJfB7Sc1nz54JLYo",
-  "symbol": "BRAVA",
-  "name": "Brava Coin",
-  "decimals": 9,
-  "logoURI": "https://ipfs.io/ipfs/bafybeiartkbykr4zd2bp2si7lz366zo7uxk7f4fua6payqhrvwrbgv7724",
-  "tags": []
-}
+[
+  {
+    "chainId": 101,
+    "address": "SOME_EXISTING_TOKEN",
+    "symbol": "EXIST",
+    "name": "Existing Token",
+    "decimals": 6,
+    "logoURI": "https://someurl.com/logo.png",
+    "tags": []
+  },
+  {
+    "chainId": 101,
+    "address": "ANOTHER_EXISTING_TOKEN",
+    "symbol": "TOKEN2",
+    "name": "Another Token",
+    "decimals": 6,
+    "logoURI": "https://someurl.com/logo2.png",
+    "tags": []
+  },
+  {
+    "chainId": 101,
+    "address": "9Pog8MZgB9SXhdSA9aFvCr2qEjYzLJfB7Sc1nz54JLYo",
+    "symbol": "BRAVA",
+    "name": "Brava Coin",
+    "decimals": 9,
+    "logoURI": "https://ipfs.io/ipfs/bafybeiartkbykr4zd2bp2si7lz366zo7uxk7f4fua6payqhrvwrbgv7724",
+    "tags": []
+  }
+]
+
